@@ -1,47 +1,46 @@
-<h1>☕ Starbucks Landing Page</h1>
 
-<h2>Este projeto é uma réplica da landing page do Starbucks, desenvolvida para praticar conceitos de desenvolvimento front-end, responsividade e manipulação de interface utilizando HTML, CSS e JavaScript.</h2>
+# ☕ Starbucks — Landing Page
 
-<br>
+### Interface Front-End com HTML, CSS e JavaScript
 
-<h1>🚀 Tecnologias utilizadas</h1>
+O **Starbucks Landing Page** é um projeto Front-End inspirado na identidade visual da Starbucks, desenvolvido para praticar a criação de interfaces modernas, responsivas e interativas.
 
-<h2>- HTML5
-  <br>
-- CSS3
-  <br>
-- JavaScript</h2>
+## 🎯 Problema e Solução
 
-<br>
+**Problema:** criar interfaces comerciais atrativas exige organização visual, responsividade e interatividade.
 
-<h1>🎯 Objetivo do projeto</h1>
+**Solução:** uma landing page inspirada na Starbucks, utilizando HTML, CSS e JavaScript para apresentar uma experiência visual dinâmica.
 
-<h2>O objetivo deste projeto foi aprimorar habilidades em:
-<br>
-<br>
-- Estruturação de páginas web
-  <br>
-- Estilização responsiva
-  <br>
-- Manipulação do DOM
-  <br>
-- Organização de layout moderno
-  <br>
-- Boas práticas de front-end</h2>
+## 📸 Preview
 
-<br>
+![Starbucks Landing Page](https://github.com/msm1996/Projetos-Realizados/blob/main/Captura%20de%20tela%202026-05-11%20213605.png?raw=true)
 
-<h1>📱 Funcionalidades</h1>
+## 🚀 Funcionalidades
 
-<h2>- Layout moderno inspirado no Starbucks
-  <br>
-- Interface responsiva
-  <br>
+- Interface inspirada na Starbucks
+- Layout moderno e responsivo
 - Troca dinâmica de elementos visuais
-  <br>
-- Interatividade com JavaScript</h2>
+- Interatividade com JavaScript
+- Adaptação para diferentes dispositivos
 
-<br>
+## 🛠️ Tecnologias
 
-<h2>Imagem do Projeto:</h2>
-<img src= "https://github.com/msm1996/Projetos-Realizados/blob/main/Captura%20de%20tela%202026-05-11%20213605.png?raw=true" />
+**Front-End**
+- HTML5
+- CSS3
+- JavaScript
+- DOM
+
+## 💡 Desafio Técnico
+
+O principal desafio foi reproduzir uma interface inspirada em uma marca conhecida, trabalhando estilização com CSS, responsividade e manipulação do DOM para realizar alterações dinâmicas nos elementos visuais.
+
+## ⚠️ Observação
+
+Projeto desenvolvido exclusivamente para fins educacionais, sem vínculo oficial com a Starbucks.
+
+## 👨‍💻 Autor
+
+**Myke Santana Martins**
+
+[GitHub](https://github.com/MykeMartins96) | [LinkedIn](https://www.linkedin.com/in/myke-santana-martins/)
